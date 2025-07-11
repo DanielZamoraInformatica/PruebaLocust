@@ -1,15 +1,15 @@
 # Petstore API Testing with Python
 
-Este proyecto realiza pruebas funcionales y de carga sobre el endpoint POST `/pet` del API Swagger Petstore.
+El proyecto realiza pruebas funcionales y de carga sobre el endpoint POST `/pet` del API Swagger Petstore.
 
-## 🧪 Tecnologías usadas
+## Tecnologías usadas
 
 - Python
 - `requests` para peticiones HTTP
 - `unittest` para validaciones funcionales
 - `locust` para pruebas de carga
 
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 petstore_post_api_test/
@@ -19,7 +19,7 @@ petstore_post_api_test/
 ├── locustfiles/        # Configuración para prueba de carga
 ```
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### 1. Instalar dependencias
 
