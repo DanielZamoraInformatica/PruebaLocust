@@ -8,6 +8,7 @@ El proyecto realiza pruebas funcionales y de carga con locust sobre el endpoint 
 petstore_post_api_test/
 ├── services/           # Logica de conexion al endpoint
 ├── tests/              # Casos de prueba funcional
+├── schema/             # Validacion de estructura esperada
 ├── utils/              # Generacion de datos/payloads
 ├── locustfiles/        # Configuración para prueba de carga
 ```
